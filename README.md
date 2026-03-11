@@ -7,7 +7,6 @@
 ## 🚀 About Me
 
 💻 Full Stack Developer
-📚 Currently learning **Python Full Stack Development**
 ⚡ Interested in building real-world web applications
 🌱 Always learning new technologies
 
@@ -17,15 +16,15 @@
 
 ### 💻 Programming
 
-Python | SQL | JavaScript
+Python | SQL | JavaScript(Basics)
 
 ### 🌐 Frontend
 
-HTML | CSS | React
+HTML | CSS | Bootstrap
 
 ### 🗄 Backend
 
-Flask | Node.js
+Flask |
 
 ### 🛢 Database
 
@@ -33,19 +32,7 @@ MongoDB | MySQL
 
 ### ⚙ Tools
 
-Git | GitHub | VS Code
-
----
-
-## 📊 GitHub Stats
-
-![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME\&show_icons=true\&theme=radical)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=[YOURUSERNAME]=(harsha8599)\&theme=radical)
+Git | VS Code
 
 ---
 
@@ -57,4 +44,4 @@ Git | GitHub | VS Code
 
 ---
 
-⭐ From [YOURUSERNAME](https://github.com/YOURUSERNAME)
+⭐ From [YOURUSERNAME](https://github.com/harsha8599)
