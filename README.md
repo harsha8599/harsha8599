@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Harsha
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28\&color=36BCF7\&center=true\&vCenter=true\&width=600\&lines=Python+Developer;Full+Stack+Developer;React+Learner;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28\&color=36BCF7\&center=true\&vCenter=true\&width=600\&lines=Python+Developer;Full+Stack+Developer;)](https://git.io/typing-svg)
 
 ---
 
