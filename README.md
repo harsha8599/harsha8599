@@ -42,6 +42,3 @@ Git | VS Code
 📧 Email
 🌍 Portfolio
 
----
-
-⭐ From [YOURUSERNAME](https://github.com/harsha8599)
