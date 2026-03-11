@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Harsha
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28\&color=00F7FF\&lines=Python+Developer;Full+Stack+Learner;React+Developer)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28\&color=00F7FF\&lines=Python+Developer;Full+Stack+Developer
 
 Welcome to my GitHub profile!
 
